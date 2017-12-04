@@ -5,7 +5,7 @@
   "description": "Bring! Shopping List",
   "main": "index.js",
   "author": "Alex Jimenez <dunkelgeist@gmail.com>",
-  "license": "MIT",
+  "license": "GPL 3.0",
   "repository": "https://github.com/dunkelgeist/BringShoppingList_FranzRecipe",
   "config": {
     "serviceURL": "https://web.getbring.com/"
