@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Alex Jimenez <dunkelgeist@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+  "repository": "https://github.com/dunkelgeist/BringShoppingList_FranzRecipe",
   "config": {
     "serviceURL": "https://web.getbring.com/"
   }
